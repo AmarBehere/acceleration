@@ -6,7 +6,7 @@ public class Constructerpractice {
 	int q;
 	boolean r;
 	boolean s;
-	
+	static char m;
 	public Constructerpractice () {
 	//this(11,12);
 	p=50;
